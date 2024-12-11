@@ -1,0 +1,77 @@
+{
+  "BackgroundColor": {
+    "Blue": 0,
+    "Green": 255,
+    "Red": 0
+  },
+  "BackgroundImageFileName": null,
+  "DefaultKeyStyle": {
+    "Loose": {
+      "Background": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "BackgroundImageFileName": null,
+      "Font": {
+        "DownloadUrl": "https://www.exljbris.com/fontin.html",
+        "FontFamily": "Fontin SmallCaps",
+        "Size": 14,
+        "Style": 0
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    },
+    "Pressed": {
+      "Background": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      },
+      "Font": {
+        "DownloadUrl": "https://www.exljbris.com/fontin.html",
+        "FontFamily": "Fontin SmallCaps",
+        "Size": 14,
+        "Style": 0
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      }
+    }
+  },
+  "DefaultMouseSpeedIndicatorStyle": {
+    "InnerColor": {
+      "Blue": 255,
+      "Green": 255,
+      "Red": 255
+    },
+    "OuterColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 255
+    },
+    "OutlineWidth": 3
+  },
+  "ElementStyles": [
+    
+  ]
+} 
