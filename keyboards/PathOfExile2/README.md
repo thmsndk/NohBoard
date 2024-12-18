@@ -61,8 +61,4 @@ Currently supports 2560x1440 resolution
 
 ## Contributing
 
-Feel free to contribute additional styles or resolution support by creating a pull request.
-
----
-
-_Note: You'll need to create and add the actual .gif files in an `assets` subfolder to showcase the overlays in action._
+Feel free to contribute additional styles or resolution support by creating a pull request. At some point we will add a PR to the official NohBoard repo.
