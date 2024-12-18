@@ -21,6 +21,19 @@ _Flask keys (1-2) with glow effect when pressed_
 ![Skills Demo](assets/skills-glow-demo.gif)  
 _Skill keys (QWERT) and mouse buttons with glow effect when pressed_
 
+#### OBS/Streamlabs Filter Settings
+
+To achieve the proper glow effect, add a Color Key filter with these settings:
+
+- Key Color Type: Custom Color
+- Key Color: `#00000000`
+- Similarity: 80
+- Smoothness: 50
+- Opacity: 100
+- Contrast: 0.00
+- Brightness: 0.00
+- Gamma: 0.00
+
 ### Text Style
 
 Simple text overlay, highlighting the key pressed with high white.
@@ -58,6 +71,7 @@ Currently supports 2560x1440 resolution
    - `2560x1440_glow/` for glow effects
    - `2560x1440/` for text overlay
 2. Copy the corresponding files to your NohBoard installation
+3. For glow style: Add the Color Key filter in OBS/Streamlabs with the settings above
 
 ## Contributing
 
